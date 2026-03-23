@@ -134,9 +134,5 @@ Building this application provided deep insights into mobile architecture and AI
 ## 👨‍💻 Author
 
 **Abhinand Krishna R**  
-*B.Voc Software Development Student*  
-[LinkedIn](https://linkedin.com/in/yourlink) | [GitHub](https://github.com/YOUR_USERNAME)
 
-<div align="center">
-<i>Built with ❤️ using Flutter and AI.</i>
-</div>
+
