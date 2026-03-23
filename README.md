@@ -5,8 +5,7 @@
 **AI Career Intelligence & Skill Gap Analyzer**
 
 *Turn your skills into a clear career path using AI-powered analysis, real-time scoring, and personalized learning roadmaps.*
-
-![SkillSync Hero Mockup](assets/icon/icon.png)
+<img src="assets/icon/icon.png" width="180" alt="SkillSync App Icon"/>
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
@@ -150,5 +149,6 @@ Building this application provided deep insights into mobile architecture and AI
 ## 👨‍💻 Author
 
 **Abhinand Krishna R**  
-
-
+* 🌐 **Portfolio / Website**: [Insert Your Page Link Here](#)
+* 💼 **LinkedIn**: [Insert Your LinkedIn Here](#)
+* 🐱 **GitHub**: [@Abhinand-krishna-R](https://github.com/Abhinand-krishna-R)
