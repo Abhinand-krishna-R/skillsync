@@ -150,6 +150,3 @@ Building this application provided deep insights into mobile architecture and AI
 ## 👨‍💻 Author
 
 **Abhinand Krishna R**  
-* 🌐 **Portfolio / Website**: [Insert Your Page Link Here](#)
-* 💼 **LinkedIn**: [Insert Your LinkedIn Here](#)
-* 🐱 **GitHub**: [@Abhinand-krishna-R](https://github.com/Abhinand-krishna-R)
