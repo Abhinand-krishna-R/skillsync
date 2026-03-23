@@ -40,13 +40,26 @@ Many early-career professionals and developers struggle to understand the specif
 
 ## 📸 UI Showcase
 
-> **Note to developer:** *Take 4 screenshots of your app (Home, Analyze, Roadmap, Profile) and place them in the `assets/github/` folder to populate this gallery!*
-
 <div align="center">
-  <img src="assets/github/home.png" width="22%" alt="Home Screen"/>
-  <img src="assets/github/analyze.png" width="22%" alt="Analyze Screen"/>
-  <img src="assets/github/roadmap.png" width="22%" alt="Roadmap Screen"/>
-  <img src="assets/github/profile.png" width="22%" alt="Profile Screen"/>
+  <img src="assets/github/photo_2026-03-23_12-36-19.jpg" width="23%" style="margin:1%;" alt="Screen"/>
+  <img src="assets/github/photo_2026-03-23_12-36-21.jpg" width="23%" style="margin:1%;" alt="Screen"/>
+  <img src="assets/github/photo_2026-03-23_12-36-22.jpg" width="23%" style="margin:1%;" alt="Screen"/>
+  <img src="assets/github/photo_2026-03-23_12-36-24.jpg" width="23%" style="margin:1%;" alt="Screen"/>
+  
+  <img src="assets/github/photo_2026-03-23_12-36-25.jpg" width="23%" style="margin:1%;" alt="Screen"/>
+  <img src="assets/github/photo_2026-03-23_12-36-26.jpg" width="23%" style="margin:1%;" alt="Screen"/>
+  <img src="assets/github/photo_2026-03-23_12-36-28.jpg" width="23%" style="margin:1%;" alt="Screen"/>
+  <img src="assets/github/photo_2026-03-23_12-36-29.jpg" width="23%" style="margin:1%;" alt="Screen"/>
+  
+  <img src="assets/github/photo_2026-03-23_12-36-30.jpg" width="23%" style="margin:1%;" alt="Screen"/>
+  <img src="assets/github/photo_2026-03-23_12-36-32.jpg" width="23%" style="margin:1%;" alt="Screen"/>
+  <img src="assets/github/photo_2026-03-23_12-36-33.jpg" width="23%" style="margin:1%;" alt="Screen"/>
+  <img src="assets/github/photo_2026-03-23_12-36-35.jpg" width="23%" style="margin:1%;" alt="Screen"/>
+  
+  <img src="assets/github/photo_2026-03-23_12-36-36.jpg" width="23%" style="margin:1%;" alt="Screen"/>
+  <img src="assets/github/photo_2026-03-23_12-36-38.jpg" width="23%" style="margin:1%;" alt="Screen"/>
+  <img src="assets/github/photo_2026-03-23_12-36-39.jpg" width="23%" style="margin:1%;" alt="Screen"/>
+  <img src="assets/github/photo_2026-03-23_12-36-45.jpg" width="23%" style="margin:1%;" alt="Screen"/>
 </div>
 
 ---
