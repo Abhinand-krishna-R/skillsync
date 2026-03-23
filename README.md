@@ -40,25 +40,25 @@ Many early-career professionals and developers struggle to understand the specif
 
 ## 📸 Screenshots
 
-### 🔐 Authentication & Onboarding
-| Login Screen | Registration |
+### 🏠 Dashboard & Profile
+| Readiness Score (Home) | User Profile |
 |---------------|----------|
-| <img src="assets/github/login.jpg" width="100%"/> | <img src="assets/github/register.jpg" width="100%"/> |
+| <img src="assets/github/score.jpg" width="100%"/> | <img src="assets/github/profile.jpg" width="100%"/> |
 
 ### 📊 AI Skill Analysis
-| Skill Analyzer | Readiness Score |
+| Resume Parsing | Manual Skill Entry |
 |---------------|----------|
-| <img src="assets/github/analyze.jpg" width="100%"/> | <img src="assets/github/score.jpg" width="100%"/> |
+| <img src="assets/github/resume.jpg" width="100%"/> | <img src="assets/github/manual.jpg" width="100%"/> |
 
 ### 🗺️ Dynamic Learning Path
 | Roadmap Generator | Module Details |
 |--------|--------|
 | <img src="assets/github/roadmap.jpg" width="100%"/> | <img src="assets/github/module.jpg" width="100%"/> |
 
-### 👤 Personalization
-| User Profile | Career Explorer |
+### 🔐 Authentication & Onboarding
+| Secure Login | Career Explorer |
 |--------|--------|
-| <img src="assets/github/profile.jpg" width="100%"/> | <img src="assets/github/explore.jpg" width="100%"/> |
+| <img src="assets/github/login.jpg" width="100%"/> | <img src="assets/github/explore.jpg" width="100%"/> |
 
 ---
 
