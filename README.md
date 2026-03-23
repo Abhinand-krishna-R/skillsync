@@ -51,9 +51,9 @@ Many early-career professionals and developers struggle to understand the specif
 | <img src="assets/github/welcome.jpg" width="100%"/> | <img src="assets/github/score.jpg" width="100%"/> | <img src="assets/github/profile.jpg" width="100%"/> |
 
 ### 🔍 Career Explorer
-| Search Roles | My Matches |
-|---------------|----------|
-| <img src="assets/github/explore.jpg" width="100%"/> | <img src="assets/github/matches.jpg" width="100%"/> |
+| Search Roles | My Matches | Match Details |
+|---------------|----------|----------|
+| <img src="assets/github/explore.jpg" width="100%"/> | <img src="assets/github/mymatches.jpg" width="100%"/> | <img src="assets/github/matches.jpg" width="100%"/> |
 
 ### 📊 AI Skill Analysis
 | Analysis Overview | Resume Upload | Resume Extracted | Manual Entry |
