@@ -1,3 +1,74 @@
+<div align="center">
+
+# 🚀 SkillSync
+
+**AI Career Intelligence & Skill Gap Analyzer**
+
+*Turn your skills into a clear career path using AI-powered analysis, real-time scoring, and personalized learning roadmaps.*
+
+<img src="assets/icon/icon.png" width="180" alt="SkillSync App Icon"/>
+
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Groq AI](https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge&logo=ai&logoColor=white)](https://groq.com/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+
+</div>
+
+---
+
+## 🌟 Overview
+**SkillSync** is a production-ready Flutter application designed to help users navigate their careers. By integrating **Groq’s high-speed LLMs** with Firebase, the app delivers real-time skill insights, calculates dynamic career readiness scores, and generates structured, module-based learning roadmaps.
+
+## 💼 Why This Project Matters
+Many early-career professionals and developers struggle to understand the specific skills required for their target roles. SkillSync solves this by:
+- **Translating Vague Goals:** Converting abstract career ambitions into concrete, structured learning paths.
+- **AI-Driven Gap Analysis:** Instantly identifying missing skills based on real-world role requirements.
+- **Actionable Tracking:** Helping users track their readiness dynamically, bridging the gap between learning and employability.
+
+---
+
+## ✨ Key Features
+- **🤖 AI-Powered Skill Analysis:** Understand your strengths and weaknesses instantly using advanced LLMs.
+- **🎯 Personalized Career Roadmaps:** Get a personalized 7-step learning module tailored specifically to your target role.
+- **📊 Readiness Scoring System:** Visual progress tracking and matching percentage for your dream job.
+- **💡 Smart Role Suggestions:** The AI suggests the best-fitting career paths based on your current skill profile.
+- **✨ Premium UI/UX:** A stunning, modern dark theme utilizing custom glassmorphism, dynamic gradients, and smooth micro-animations.
+- **🔐 Secure & Synced:** Complete Firebase authentication and real-time Firestore database synchronization across devices.
+
+---
+
+## 📸 Screenshots
+
+### 🔐 Authentication & Onboarding
+| Secure Login | Registration |
+|--------|--------|
+| <img src="assets/github/login.jpg" width="100%"/> | <img src="assets/github/register.jpg" width="100%"/> |
+
+### 🏠 Dashboard & Profile
+| Welcome Journey | Readiness Score | User Profile |
+|---------------|----------|----------|
+| <img src="assets/github/welcome.jpg" width="100%"/> | <img src="assets/github/score.jpg" width="100%"/> | <img src="assets/github/profile.jpg" width="100%"/> |
+
+### 🔍 Career Explorer
+| Search Roles | My Matches |
+|---------------|----------|
+| <img src="assets/github/explore.jpg" width="100%"/> | <img src="assets/github/matches.jpg" width="100%"/> |
+
+### 📊 AI Skill Analysis
+| Analysis Overview | Resume Upload | Resume Extracted | Manual Entry |
+|---------------|----------|----------|----------|
+| <img src="assets/github/analyze.jpg" width="100%"/> | <img src="assets/github/upload.jpg" width="100%"/> | <img src="assets/github/resume.jpg" width="100%"/> | <img src="assets/github/manual.jpg" width="100%"/> |
+
+### 🗺️ Dynamic Learning Path
+| Personalized Roadmap | Module Details | Interview Prep |
+|---------------|----------|----------|
+| <img src="assets/github/roadmap.jpg" width="100%"/> | <img src="assets/github/module.jpg" width="100%"/> | <img src="assets/github/interview.jpg" width="100%"/> |
+
+---
+
+## 🧠 Application Architecture
+
 The core of SkillSync is built on a clean, maintainable architecture powered by `provider` for state management. Below is the application's screen flow:
 
 ```mermaid
@@ -47,7 +118,7 @@ Building this application provided deep insights into mobile architecture and AI
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/skillsync.git
+   git clone https://github.com/Abhinand-krishna-R/skillsync.git
    cd skillsync
    ```
 
