@@ -1,0 +1,66 @@
+name: skillsync
+description: SkillSync — AI-powered career readiness platform.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  # Firebase (Spark plan - no Cloud Functions needed)
+  firebase_core: ^2.32.0
+  firebase_auth: ^4.20.0
+  cloud_firestore: ^4.17.5
+  firebase_storage: ^11.7.7
+
+  # AI Integration - Groq via HTTP (replaces Gemini)
+  http: ^1.2.0
+
+  # State Management
+  provider: ^6.1.2
+
+  # Navigation
+  go_router: ^13.2.0
+
+  # UI
+  flutter_animate: ^4.5.0
+  google_fonts: ^6.2.1
+  fl_chart: ^0.68.0
+  shimmer: ^3.0.0
+
+  # Utils
+  crypto: ^3.0.3
+  intl: ^0.19.0
+  shared_preferences: ^2.2.3
+  uuid: ^4.3.3
+  file_picker: ^8.0.7
+  url_launcher: ^6.2.1
+  flutter_dotenv: ^5.1.0
+  syncfusion_flutter_pdf: ^24.1.41
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/icon.png"
+  adaptive_icon_background: "#0D0D2B"
+  adaptive_icon_foreground: "assets/icon/icon.png"
+  remove_alpha_ios: true
+  web:
+    generate: true
+    image_path: "assets/icon/icon.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icon/icon.png
+    - .env
