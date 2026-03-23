@@ -40,25 +40,30 @@ Many early-career professionals and developers struggle to understand the specif
 
 ## 📸 Screenshots
 
+### 🔐 Authentication & Onboarding
+| Secure Login | Registration |
+|--------|--------|
+| <img src="assets/github/login.jpg" width="100%"/> | <img src="assets/github/register.jpg" width="100%"/> |
+
 ### 🏠 Dashboard & Profile
-| Readiness Score (Home) | User Profile |
+| Welcome Journey | Readiness Score | User Profile |
+|---------------|----------|----------|
+| <img src="assets/github/welcome.jpg" width="100%"/> | <img src="assets/github/score.jpg" width="100%"/> | <img src="assets/github/profile.jpg" width="100%"/> |
+
+### 🔍 Career Explorer
+| Find Roles | Target Match Details |
 |---------------|----------|
-| <img src="assets/github/score.jpg" width="100%"/> | <img src="assets/github/profile.jpg" width="100%"/> |
+| <img src="assets/github/explore.jpg" width="100%"/> | <img src="assets/github/matches.jpg" width="100%"/> |
 
 ### 📊 AI Skill Analysis
-| Resume Parsing | Manual Skill Entry |
-|---------------|----------|
-| <img src="assets/github/resume.jpg" width="100%"/> | <img src="assets/github/manual.jpg" width="100%"/> |
+| Analysis Overview | Resume Upload | Resume Extracted | Manual Entry |
+|---------------|----------|----------|----------|
+| <img src="assets/github/analyze.jpg" width="100%"/> | <img src="assets/github/upload.jpg" width="100%"/> | <img src="assets/github/resume.jpg" width="100%"/> | <img src="assets/github/manual.jpg" width="100%"/> |
 
 ### 🗺️ Dynamic Learning Path
-| Roadmap Generator | Module Details |
-|--------|--------|
-| <img src="assets/github/roadmap.jpg" width="100%"/> | <img src="assets/github/module.jpg" width="100%"/> |
-
-### 🔐 Authentication & Onboarding
-| Secure Login | Career Explorer |
-|--------|--------|
-| <img src="assets/github/login.jpg" width="100%"/> | <img src="assets/github/explore.jpg" width="100%"/> |
+| Personalized Roadmap | Module details | Interview Prep |
+|---------------|----------|----------|
+| <img src="assets/github/roadmap.jpg" width="100%"/> | <img src="assets/github/module.jpg" width="100%"/> | <img src="assets/github/interview.jpg" width="100%"/> |
 
 ---
 
