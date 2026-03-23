@@ -56,9 +56,9 @@ Many early-career professionals and developers struggle to understand the specif
 | <img src="assets/github/roadmap.jpg" width="100%"/> | <img src="assets/github/module.jpg" width="100%"/> |
 
 ### 👤 Personalization
-| User Profile | Settings & Notifications |
+| User Profile | Career Explorer |
 |--------|--------|
-| <img src="assets/github/profile.jpg" width="100%"/> | <img src="assets/github/settings.jpg" width="100%"/> |
+| <img src="assets/github/profile.jpg" width="100%"/> | <img src="assets/github/explore.jpg" width="100%"/> |
 
 ---
 
